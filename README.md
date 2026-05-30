@@ -47,6 +47,6 @@ python client/client.py
 
 ## Course Info
 
-**Course:** Computer Networks  
+**Course:** Networks  
 **University:** Yachay Tech University  
 **Language:** Python
